@@ -1,0 +1,547 @@
+Ping result for 192.168.1.2 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.2 (192.168.1.2) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.2 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3058ms
+pipe 3
+
+
+Ping result for 192.168.1.3 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.3 (192.168.1.3) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.3 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3071ms
+pipe 3
+
+
+Ping result for 192.168.1.4 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.4 (192.168.1.4) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.4 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3074ms
+pipe 3
+
+
+Ping result for 192.168.1.5 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.5 (192.168.1.5) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.5 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3067ms
+pipe 3
+
+
+Ping result for 192.168.1.6 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.6 (192.168.1.6) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.6 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3067ms
+pipe 3
+
+
+Ping result for 192.168.1.7 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.7 (192.168.1.7) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.7 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3068ms
+pipe 3
+
+
+Ping result for 192.168.1.8 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.8 (192.168.1.8) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.8 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3072ms
+pipe 3
+
+
+Ping result for 192.168.1.9 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.9 (192.168.1.9) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.9 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3072ms
+pipe 3
+
+
+Ping result for 192.168.1.10 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.10 (192.168.1.10) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.10 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3067ms
+pipe 3
+
+
+Ping result for 192.168.1.11 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.11 (192.168.1.11) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+
+--- 192.168.1.11 ping statistics ---
+4 packets transmitted, 0 received, +1 errors, 100% packet loss, time 3071ms
+pipe 4
+
+
+Ping result for 192.168.1.12 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.12 (192.168.1.12) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.12 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3077ms
+pipe 3
+
+
+Ping result for 192.168.1.13 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.13 (192.168.1.13) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.13 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3068ms
+pipe 3
+
+
+Ping result for 192.168.1.14 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.14 (192.168.1.14) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.14 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3071ms
+pipe 3
+
+
+Ping result for 192.168.1.15 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.15 (192.168.1.15) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.15 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3071ms
+pipe 3
+
+
+Ping result for 192.168.1.16 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.16 (192.168.1.16) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.16 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3055ms
+pipe 3
+
+
+Ping result for 192.168.1.17 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.17 (192.168.1.17) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.17 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3069ms
+pipe 3
+
+
+Ping result for 192.168.1.18 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.18 (192.168.1.18) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.18 ping statistics ---
+4 packets transmitted, 0 received, +3 errors, 100% packet loss, time 3070ms
+pipe 3
+
+
+Ping result for 192.168.1.19 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.19 (192.168.1.19) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.19 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3053ms
+pipe 3
+
+
+Ping result for 192.168.1.20 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.20 (192.168.1.20) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.20 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3063ms
+pipe 3
+
+
+Ping result for 192.168.1.21 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.21 (192.168.1.21) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.21 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3069ms
+pipe 3
+
+
+Ping result for 192.168.1.22 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.22 (192.168.1.22) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.22 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3074ms
+pipe 3
+
+
+Ping result for 192.168.1.23 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.23 (192.168.1.23) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.23 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3064ms
+pipe 3
+
+
+Ping result for 192.168.1.24 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.24 (192.168.1.24) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.24 ping statistics ---
+4 packets transmitted, 0 received, +3 errors, 100% packet loss, time 3072ms
+pipe 4
+
+
+Ping result for 192.168.1.25 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.25 (192.168.1.25) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.25 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3049ms
+pipe 3
+
+
+Ping result for 192.168.1.26 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.26 (192.168.1.26) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.26 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3069ms
+pipe 3
+
+
+Ping result for 192.168.1.27 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.27 (192.168.1.27) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.27 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3065ms
+pipe 3
+
+
+Ping result for 192.168.1.28 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.28 (192.168.1.28) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.28 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3069ms
+pipe 3
+
+
+Ping result for 192.168.1.29 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.29 (192.168.1.29) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.29 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3071ms
+pipe 3
+
+
+Ping result for 192.168.1.30 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.30 (192.168.1.30) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.30 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3071ms
+pipe 4
+
+
+Ping result for 192.168.1.31 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.31 (192.168.1.31) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.31 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3053ms
+pipe 3
+
+
+Ping result for 192.168.1.32 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.32 (192.168.1.32) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.32 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3071ms
+pipe 3
+
+
+Ping result for 192.168.1.33 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.33 (192.168.1.33) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.33 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3051ms
+pipe 3
+
+
+Ping result for 192.168.1.34 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.34 (192.168.1.34) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.34 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3065ms
+pipe 3
+
+
+Ping result for 192.168.1.35 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.35 (192.168.1.35) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.35 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3062ms
+pipe 3
+
+
+Ping result for 192.168.1.36 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.36 (192.168.1.36) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.36 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3071ms
+pipe 3
+
+
+Ping result for 192.168.1.37 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.37 (192.168.1.37) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.37 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3049ms
+pipe 3
+
+
+Ping result for 192.168.1.38 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.38 (192.168.1.38) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.38 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3069ms
+pipe 3
+
+
+Ping result for 192.168.1.39 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.39 (192.168.1.39) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.39 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3067ms
+pipe 3
+
+
+Ping result for 192.168.1.40 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.40 (192.168.1.40) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.40 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3066ms
+pipe 3
+
+
+Ping result for 192.168.1.41 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.41 (192.168.1.41) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.41 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3072ms
+pipe 3
+
+
+Ping result for 192.168.1.42 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.42 (192.168.1.42) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.42 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3070ms
+pipe 4
+
+
+Ping result for 192.168.1.2 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.2 (192.168.1.2) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.2 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3072ms
+pipe 3
+
+
+Ping result for 192.168.1.3 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.3 (192.168.1.3) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.3 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3061ms
+pipe 3
+
+
+Ping result for 192.168.1.4 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.4 (192.168.1.4) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.4 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3074ms
+pipe 3
+
+
+Ping result for 192.168.1.5 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.5 (192.168.1.5) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.5 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3078ms
+pipe 3
+
+
+Ping result for 192.168.1.3 (2(SERVFAIL)) on 2023-11-30:
+PING 192.168.1.3 (192.168.1.3) 56(84) bytes of data.
+From 192.168.1.135 icmp_seq=1 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=2 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=3 Destination Host Unreachable
+From 192.168.1.135 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.1.3 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3053ms
+pipe 3
+
+
