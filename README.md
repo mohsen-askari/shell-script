@@ -1,4 +1,4 @@
-# DevOps-Exercises
+# Shell-Exercises
 Shell scripting exercises
 Mr. Arash Foroughi's course at Sematec Academy
 
